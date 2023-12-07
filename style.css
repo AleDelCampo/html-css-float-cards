@@ -26,11 +26,34 @@ p{
     text-align: center;
 }
 
-img {
-    height: 120px;
-    padding-left: 28px;
+
+.row img {
+    
+    float:left;
+    width: 100px;
+    height: 100px;
 }
 
-.row{
-    
+.row {
+    width:330px;
+    height:100px;
+    background:#0f0e17;
 }
+
+ul li{
+    color: white;
+    list-style-type: none;
+    float: left;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+strong{
+    font-weight: 900;
+}
+
+a{
+    text-decoration: none;
+    color: #00d5ffdb;
+}
+
