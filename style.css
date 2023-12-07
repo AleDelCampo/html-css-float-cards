@@ -4,11 +4,6 @@
     margin: 0;
 }
 
-main {
-
-
-}
-
 body {
     font-family: 'Nunito', sans-serif;
 }
@@ -20,9 +15,22 @@ h1 {
     padding: 40px 40px;
 }
 
+p{
+    margin-bottom: 50px;
+}
+
 .container {
     width: 70%;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+}
+
+img {
+    height: 120px;
+    padding-left: 28px;
+}
+
+.row{
+    
 }
